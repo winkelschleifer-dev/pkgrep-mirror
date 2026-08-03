@@ -1,9 +1,9 @@
-# rats-backend
+# PKGREP
 
-Backend for Nova's package manager (WIP)
+Backend for Skitter's package manager (WIP)
 
 # What is this
-`rats` (Rats Acquire Tools n' Stuff) is the package manager for Nova.
+`rats` (Rats Acquire Tools n' Stuff) is the package manager for Skitter.
 It's WIP and is planned to be fairly simple:
 - `rats find (name)` - searches for package (name) in the package repo
 - `rats get (name)` - installs package (name)
